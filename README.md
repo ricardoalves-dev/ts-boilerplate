@@ -2,7 +2,6 @@
 Node + TS project boilerplate
 
 #### Dependencies
-- npm i express
 - npm i -D typescript
 - npm i -D @types/node
 - npm i -D ts-node-dev
